@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jkvince
+- 🎓 Computing with Machine Learning and AI at TU-Dublin
+- 🌱 I’m currently learning assembly, Python and Haskell
